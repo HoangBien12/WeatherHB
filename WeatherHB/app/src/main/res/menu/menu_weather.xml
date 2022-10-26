@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_favorite"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add_favorite" />
+    <item
+        android:id="@+id/item_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search" />
+    <item
+        android:id="@+id/item_setting"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/setting" />
+    <item
+        android:id="@+id/item_exit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/exit" />
+</menu>

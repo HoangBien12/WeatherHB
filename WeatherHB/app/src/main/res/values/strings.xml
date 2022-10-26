@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WeatherHB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Cài đặt</string>
+    <string name="search">Tìm vị trí</string>
+    <string name="exit">Thoát</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="english">English</string>
+    <string name="vietnam">Việt Nam</string>
+    <string name="unit">Đơn vị</string>
+    <string name="temp_c">Độ C</string>
+    <string name="temp_f">Độ F</string>
+    <string name="temp_k">Độ K</string>
+    <string name="theme">Giao diện</string>
+    <string name="theme_black">Tối</string>
+    <string name="theme_light">Sáng</string>
+    <string name="theme_auto">Tự Động</string>
+    <string name="favorite">Vị trí yêu thích</string>
+    <string name="enter_city_name">Nhập Tên Thành Phố</string>
+    <string name="feels_like">Cảm giác như</string>
+    <string name="sunset">Hoàng hôn</string>
+    <string name="sunrise">Bình minh</string>
+    <string name="today_detail">CHI TIẾT\n\nMây\n\nĐộ ẩm\n\nTầm nhìn\n\nHướng gió\n\nTốc độ gió\n\nTốc độ gió tối đa\n\nNhiệt độ tối đa\n\nNhiêt độ tối thiểu\n\nÁp suất mặt đất\n\nÁp suất mặt biển</string>
+    <string name="today">Hôm nay</string>
+    <string name="forecast">Dự báo</string>
+    <string name="current">Hiện tại:</string>
+    <string name="my_location">Vị trí của tôi</string>
+    <string name="location_access">Cho phép truy cập vị trí</string>
+    <string name="add_favorite">Thêm vào yêu thích</string>
+    <string name="add_favorite_successful">Đã thêm vào yêu thích</string>
+    <string name="can">Hủy</string>
+    <string name="wrong_city_name">Tên thành phố sai</string>
+    <string name="temp_5day">Nhiệt độ 5 ngày tiếp theo</string>
+    <string name="probability_rain">Xác suất mưa</string>
+    <string name="tv_internet">Không có kết nối internet\nVui lòng kiểm tra kết nối và thử lại</string>
+    <string name="no_internet">Không có kết nối internet</string>
+    <string name="load_error">Không tải được dữ liệu</string>
+    <string name="day">Ngày</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

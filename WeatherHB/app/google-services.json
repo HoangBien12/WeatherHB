@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484032612344",
+    "project_id": "hoangbien-8e263",
+    "storage_bucket": "hoangbien-8e263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484032612344:android:687f64058c7faf46f1780d",
+        "android_client_info": {
+          "package_name": "com.hoang.weatherhb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484032612344-pq6f1kdnkg29q2u9sjcdcko14piuvq8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoang.weatherhb",
+            "certificate_hash": "420f7ae517e31367f4062a72b66cd710aa6a48d9"
+          }
+        },
+        {
+          "client_id": "484032612344-1tp7ln5mshu0aj8ijack1geli8gj76pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrbV32VCW4JKd6spWhXRGVnSlom3ZSLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484032612344-1tp7ln5mshu0aj8ijack1geli8gj76pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

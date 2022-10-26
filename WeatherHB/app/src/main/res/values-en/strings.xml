@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WeatherHB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="exit">Exit</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="vietnam">Việt Nam</string>
+    <string name="unit">Temp Unit</string>
+    <string name="temp_c">Temp C</string>
+    <string name="temp_f">Temp F</string>
+    <string name="temp_k">Temp K</string>
+    <string name="theme">Theme</string>
+    <string name="theme_black">Black</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_auto">Auto</string>
+    <string name="favorite">Favorite</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="feels_like">Feels like</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="today_detail">DETAIL\n\nClouds\n\nHumidity\n\nVisibility\n\nWind deg\n\nWind speed\n\nWind gust\n\nTemp max\n\nTemp min\n\nGrnd level\n\nSea level</string>
+    <string name="today">Today</string>
+    <string name="forecast">Forecast</string>
+    <string name="current">Current:</string>
+    <string name="my_location">My location</string>
+    <string name="location_access">Allow location access</string>
+    <string name="add_favorite">Add favorite</string>
+    <string name="add_favorite_successful">Added to favorites</string>
+    <string name="can">Cancel</string>
+    <string name="wrong_city_name">Wrong city name</string>
+    <string name="temp_5day">Temperature for the next 5 days</string>
+    <string name="probability_rain">Probability of rain</string>
+    <string name="tv_internet">No internet connection\nPlease check the connection and try again</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="load_error">Unable to load data</string>
+    <string name="day">Day</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
